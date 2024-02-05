@@ -2,9 +2,9 @@
 A knowledge system that detects the storage that has caused contamination in a chemical factory.
 
 Co-authored by:
-- Alexia Ntantouri
-- Maria Nefeli Paraskevopoulou
-- Spyridon Terzis
+- Alexia Ntantouri [[@alexia-nt](https://github.com/alexia-nt)]
+- Maria Nefeli Paraskevopoulou [[@nefelipar](https://github.com/nefelipar)]
+- Spyridon Terzis [[@tezisspy](https://github.com/terzisspy)]
 
 as a group project for the "Knowledge Systems" course at AUTh (7th semester).
 
