@@ -8,6 +8,7 @@ Co-authored by:
 
 as a group project for the "Knowledge Systems" course at AUTh (7th semester).
 
+## Project Description
 The program detects the storage that has might caused the contamination. This is achieved by:
 1. First, asking the user to enter some measurements.
 2. Based on those measurements some chemicals turn into suspects due to their properties.
@@ -15,8 +16,8 @@ The program detects the storage that has might caused the contamination. This is
 4. Then the system akss some follow-up questions in order to end up with only one suspect storage, by decriminalizing stores that are not responsible for the pollution based on the user input.
 5. Finally, the program prints the chemicals that have casused the contamination, along with their possible hazards and the the storage that contains these chemicals and has caused the contamination.
 
-## Project Description
-This is the information about the project, showing in which storages each chemical is contained and some information about each chemical.
+## Data Description
+This is the information about the data of the project, showing in which storages each chemical is contained and some information about each chemical.
 
 ![ontology](https://github.com/alexia-nt/Chemical-Factory-Knowledge-System/assets/74093248/022b170f-4e67-466c-b810-1a68acb66d5d)
 
