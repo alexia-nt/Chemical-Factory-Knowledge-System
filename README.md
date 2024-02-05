@@ -23,23 +23,19 @@ This is the information about the data of the project, showing in which storages
 
 
 ## Example No1
-Suspect manholes before asking the user follow-up questions:
-![paradeigma1](https://github.com/alexia-nt/Chemical-Factory-Knowledge-System/assets/74093248/8e7ffb46-9357-4ce9-bb49-55e6fc36e0b0)
-The program does not need to ask follow-up questions to print the storage that has caused the contamination.
-
 ![p1](https://github.com/alexia-nt/Chemical-Factory-Knowledge-System/assets/74093248/a4d55413-bbc4-4964-947a-b1c56cb17ec8)
 
-## Example No2
-Suspect manholes before asking user follow-up questions:
-![paradeigma2](https://github.com/alexia-nt/Chemical-Factory-Knowledge-System/assets/74093248/0c643f03-d440-4cc0-8a21-b5b073cae38f)
-The program has to ask follow-up questions in order to detect the storage that has caused the contamination.
+The program does not need to ask follow-up questions to print the storage that has caused the contamination. These are the suspect manholes before asking the user follow-up questions:
+![paradeigma1](https://github.com/alexia-nt/Chemical-Factory-Knowledge-System/assets/74093248/8e7ffb46-9357-4ce9-bb49-55e6fc36e0b0)
 
+## Example No2
 ![p2](https://github.com/alexia-nt/Chemical-Factory-Knowledge-System/assets/74093248/83a53a37-66e8-49f0-b7f9-4d6ec2b7411b)
 
+The program has to ask follow-up questions in order to detect the storage that has caused the contamination. These are the suspect manholes before asking the user follow-up questions:
+![paradeigma2](https://github.com/alexia-nt/Chemical-Factory-Knowledge-System/assets/74093248/0c643f03-d440-4cc0-8a21-b5b073cae38f)
 
 ## Example No3
-Suspect manholes before asking user follow-up questions:
-![paradeigma3](https://github.com/alexia-nt/Chemical-Factory-Knowledge-System/assets/74093248/a033ee60-7f4b-4e2c-90ab-dd269cd64a17)
-The program has to ask follow-up questions in order to detect the storage that has caused the contamination.
-
 ![p3](https://github.com/alexia-nt/Chemical-Factory-Knowledge-System/assets/74093248/181a78bf-6602-49e3-9757-fc242417d61a)
+
+The program has to ask follow-up questions in order to detect the storage that has caused the contamination. These are the suspect manholes before asking the user follow-up questions:
+![paradeigma3](https://github.com/alexia-nt/Chemical-Factory-Knowledge-System/assets/74093248/a033ee60-7f4b-4e2c-90ab-dd269cd64a17)
